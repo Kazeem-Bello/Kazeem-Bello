@@ -1,6 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kazeem</h1>
 <h3 align="center">Data Scientist | ML Engineer | AI Innovator</h3>
-
 <p align="center">
   <a href="https://github.com/Kazeem-Bello">
     <img src="https://komarev.com/ghpvc/?username=Kazeem-Bello&label=Profile%20views&color=0e75b6&style=flat" alt="Kazeem-Bello" />
@@ -9,11 +8,9 @@
 
 ---
 
-### About Me
-I'm **Kazeem**, an innovative and results-driven **Data Scientist** with 4+ years of experience designing data-driven solutions that drive measurable business outcomes.  
+### About Me 
 I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **MLOps**, delivering scalable systems that bridge the gap between experimentation and production.  
-
-My passion lies in transforming complex datasets into actionable insights and developing ethical, explainable AI solutions that make a real-world impact.  
+ 
 When I’m not building models, you’ll find me hiking in the Rockies, building custom PCs, or mentoring upcoming AI talent.  
 
 ---
@@ -21,7 +18,7 @@ When I’m not building models, you’ll find me hiking in the Rockies, building
 ### Core Expertise
 - **Machine Learning & Deep Learning** – predictive modeling, neural networks, optimization  
 - **Natural Language Processing (NLP)** – text classification, sentiment analysis, transformers  
-- **MLOps & Model Deployment** – CI/CD for ML, Docker, AWS, FastAPI, MLflow  
+- **MLOps & Model Deployment** – CI/CD with Github Action and Jenkins, Docker, AWS, FastAPI, MLflow  
 - **Data Engineering** – data pipelines, feature engineering, SQL, ETL automation  
 - **Generative AI** – LLM integration, prompt engineering, fine-tuning  
 - **Cloud Platforms** – AWS, GCP, Azure fundamentals  
@@ -31,33 +28,7 @@ When I’m not building models, you’ll find me hiking in the Rockies, building
 
 ### Languages & Tools
 
-<style>
-  .tech-icon {
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-  .tech-icon:hover {
-    transform: scale(1.2);
-    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.4);
-  }
-</style>
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://www.docker.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://git-scm.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.linux.org" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-</p>
-
-
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,git,mysql,mongodb,linux,aws,html,css,javascript&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -72,10 +43,9 @@ When I’m not building models, you’ll find me hiking in the Rockies, building
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/kazeem-bello" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
-  <a href="https://twitter.com/KazeemBelloAI" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" /></a>
-  <a href="mailto:kazeem.ai.contact@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
-  <a href="https://kazeem-bello.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/kazeembello/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
+  <a href="https://x.com/talinum_b?s=11" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" /></a>
+  <a href="mailto:bel.kazeem@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
 </p>
 
 ---
