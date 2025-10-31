@@ -1,22 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Kazeem</h1>
 <h3 align="center">Data Scientist | ML Engineer | AI Innovator</h3>
-<p align="center">
-  <a href="https://github.com/Kazeem-Bello">
-    <img src="https://komarev.com/ghpvc/?username=Kazeem-Bello&label=Profile%20views&color=0e75b6&style=flat" alt="Kazeem-Bello" />
-  </a>
-</p>
 
 
 ### About Me 
-I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **MLOps**, delivering scalable systems that bridge the gap between experimentation and production.  
+I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **MLOps**. *Building ethical, scalable, and human-centric AI — one model at a time*
+ 
 When I’m not building and deploying models, I enjoy:
-    - 👨‍👩‍👧 Spending quality time with family and friends  
-    - ⚽ Watching and playing football  
-    - 📚 Reading books on technology, personal development, and history  
-    - 🎮 Playing video games (FC25 and adventure games)  
-    - 🌍 Exploring new places and cultures through travel  
-    - 🍳 Cooking and experimenting with new recipes  
-
+- Spending quality time with family and friends   
+- Reading books on technology, personal development, and history   
+- Exploring new places and cultures through travel  
+- Cooking and experimenting with new recipes  
 
 
 ### Core Expertise
@@ -30,7 +23,6 @@ When I’m not building and deploying models, I enjoy:
 
 
 ### Languages & Tools
-
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,git,mysql,mongodb,linux,aws,html,css,javascript&theme=dark)](https://skillicons.dev)
 
 
