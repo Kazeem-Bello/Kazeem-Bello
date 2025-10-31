@@ -6,14 +6,11 @@
   </a>
 </p>
 
----
 
 ### About Me 
 I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **MLOps**, delivering scalable systems that bridge the gap between experimentation and production.  
- 
 When I’m not building models, you’ll find me hiking in the Rockies, building custom PCs, or mentoring upcoming AI talent.  
 
----
 
 ### Core Expertise
 - **Machine Learning & Deep Learning** – predictive modeling, neural networks, optimization  
@@ -24,13 +21,11 @@ When I’m not building models, you’ll find me hiking in the Rockies, building
 - **Cloud Platforms** – AWS, GCP, Azure fundamentals  
 - **Analytics & Visualization** – Power BI, Matplotlib, Plotly  
 
----
 
 ### Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,git,mysql,mongodb,linux,aws,html,css,javascript&theme=dark)](https://skillicons.dev)
 
----
 
 ### GitHub Analytics
 <p align="center">
@@ -39,15 +34,13 @@ When I’m not building models, you’ll find me hiking in the Rockies, building
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazeem-Bello&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-### 📫 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kazeembello/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
   <a href="https://x.com/talinum_b?s=11" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" /></a>
   <a href="mailto:bel.kazeem@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
 </p>
 
----
 
-⭐ **“Building ethical, scalable, and human-centric AI — one model at a time.”**
+**“Building ethical, scalable, and human-centric AI — one model at a time.”**
