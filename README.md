@@ -35,7 +35,7 @@ When I’m not building and deploying models, I enjoy:
 
 
 ### Connect with Me
-<p align="right">
+<p align="left">
   <a href="https://www.linkedin.com/in/kazeembello/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
   <a href="https://x.com/talinum_b?s=11" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" /></a>
   <a href="mailto:bel.kazeem@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
