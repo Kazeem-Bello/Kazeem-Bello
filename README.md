@@ -31,7 +31,32 @@ When I’m not building models, you’ll find me hiking in the Rockies, building
 
 ### Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,git,mysql,mongodb,linux,aws,html,css,javascript&theme=dark)](https://skillicons.dev)
+<style>
+  .tech-icon {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .tech-icon:hover {
+    transform: scale(1.2);
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.4);
+  }
+</style>
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://www.docker.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.linux.org" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+</p>
+
 
 
 ---
