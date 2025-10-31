@@ -23,7 +23,7 @@ When I’m not building and deploying models, I enjoy:
 
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,git,mysql,mongodb,linux,aws,html,css,javascript&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,flask,git,mysql,mongodb,linux,aws,html,css,javascript&theme=dark)](https://skillicons.dev)
 
 
 ### GitHub Analytics
@@ -35,11 +35,8 @@ When I’m not building and deploying models, I enjoy:
 
 
 ### Connect with Me
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/kazeembello/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
   <a href="https://x.com/talinum_b?s=11" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" /></a>
   <a href="mailto:bel.kazeem@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
 </p>
-
-
-**“Building ethical, scalable, and human-centric AI — one model at a time.”**
