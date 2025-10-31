@@ -9,7 +9,14 @@
 
 ### About Me 
 I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **MLOps**, delivering scalable systems that bridge the gap between experimentation and production.  
-When I’m not building models, you’ll find me hiking in the Rockies, building custom PCs, or mentoring upcoming AI talent.  
+When I’m not building and deploying models, I enjoy:
+    - 👨‍👩‍👧 Spending quality time with family and friends  
+    - ⚽ Watching and playing football  
+    - 📚 Reading books on technology, personal development, and history  
+    - 🎮 Playing video games (FC25 and adventure games)  
+    - 🌍 Exploring new places and cultures through travel  
+    - 🍳 Cooking and experimenting with new recipes  
+
 
 
 ### Core Expertise
