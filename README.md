@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Kazeem Bello</h1>
-<h3 align="center">🚀 Data Scientist | ML Engineer | MLOps Enthusiast | AI Innovator</h3>
+<h1 align="center">Hey there 👋, I'm Kazeem</h1>
+<h3 align="center">Data Scientist | ML Engineer | AI Innovator</h3>
 
 <p align="center">
   <a href="https://github.com/Kazeem-Bello">
@@ -9,7 +9,7 @@
 
 ---
 
-### 👨🏽‍💻 About Me
+### About Me
 I'm **Kazeem**, an innovative and results-driven **Data Scientist** with 4+ years of experience designing data-driven solutions that drive measurable business outcomes.  
 I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **MLOps**, delivering scalable systems that bridge the gap between experimentation and production.  
 
@@ -18,7 +18,7 @@ When I’m not building models, you’ll find me hiking in the Rockies, building
 
 ---
 
-### 🧠 Core Expertise
+### Core Expertise
 - **Machine Learning & Deep Learning** – predictive modeling, neural networks, optimization  
 - **Natural Language Processing (NLP)** – text classification, sentiment analysis, transformers  
 - **MLOps & Model Deployment** – CI/CD for ML, Docker, AWS, FastAPI, MLflow  
@@ -29,33 +29,17 @@ When I’m not building models, you’ll find me hiking in the Rockies, building
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,git,mysql,mongodb,linux,aws,html,css,javascript&theme=dark)](https://skillicons.dev)
+
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kazeem-Bello&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazeem-Bello&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazeem-Bello&layout=compact&theme=tokyonight" />
 </p>
 
