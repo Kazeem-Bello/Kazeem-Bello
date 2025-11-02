@@ -32,7 +32,12 @@ When I’m not building and deploying models, I enjoy:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazeem-Bello&theme=tokyonight" />
 </p>
 
-![LangReflect Chart](./langreflect_chart.png)
+### 📊 My Most Used Languages (Powered by LangReflect)
+
+![LangReflect Chart](https://raw.githubusercontent.com/Kazeem-Bello/LangReflect/main/langreflect_chart.png)
+
+📊 *Chart updates automatically each month via [LangReflect](https://github.com/Kazeem-Bello/LangReflect).*
+
 
 
 ### Connect with Me
