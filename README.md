@@ -30,8 +30,8 @@ When I’m not building and deploying models, I enjoy:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kazeem-Bello&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazeem-Bello&theme=tokyonight" />
-  [![LangReflect Chart](./langreflect_chart.png)
 </p>
+
 [![LangReflect Chart](./langreflect_chart.png)
 
 
