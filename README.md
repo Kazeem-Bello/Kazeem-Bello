@@ -32,7 +32,7 @@ When I’m not building and deploying models, I enjoy:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazeem-Bello&theme=tokyonight" />
 </p>
 
-[![LangReflect Chart](./langreflect_chart.png)
+![LangReflect Chart](./langreflect_chart.png)
 
 
 ### Connect with Me
